@@ -1,5 +1,6 @@
 <div align="center">
 
+
 # ✨ SPARQL query generation with LLMs 🦜
 
 [![PyPI - Version](https://img.shields.io/pypi/v/sparql-llm.svg?logo=pypi&label=PyPI&logoColor=silver)](https://pypi.org/project/sparql-llm/)
