@@ -1,5 +1,5 @@
 <div align="center">
-
+s
 
 # ✨ SPARQL query generation with LLMs 🦜
 
